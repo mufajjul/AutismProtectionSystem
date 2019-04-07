@@ -9,6 +9,8 @@ The goal of this project is how can we leverage AI to proactively predict and pr
 
 One potential approach is to collect various sensiory data, such as heart rate, temperature, voice, location, and others, and analyze for any anamolies, then establish possible cause and act upon imidiately.  
 
+## Volunteers 
 
+Seeking for volunteers to get the ball rolling.  Please contact mufajjul.ali@gmail.com if you are interested. 
 
 
